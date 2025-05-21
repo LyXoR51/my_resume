@@ -7,23 +7,21 @@ After 10 years in technical roles across cosmetics, pharma, and automotive indus
 ## Skills
 - Programming Languages: Python
 
-## Experience
-**Symbio**, automotive (_OCT 2023 - NOV 2024_)
-Process Leader
+## 💼 Work experience 
+
+**Process Leader @ <a href="https://www.symbio.one/en" target="_blank">Symbio</a>**, automotive (_OCT 2023 - NOV 2024_)
 - Project management: Management of the reception phases of a production line (FAT, relocation, SAT, certification qualification, R&R, QI QO QP). Coordination of internal/external functions (robotics, automation, vision, mechanics). Backup of other leading processes on equivalent production line.
 - Fine-tuning: Definition of technical improvements to improve reliability and cycle times to meet production and CDC targets (software & hardware modifications: automation upgrades, new functions, robot trajectory and cycle, gripper modifications, etc.).
 - Process/product improvement: Review of process and product FMEAs (PFMEA), technical arbitration to ensure the quality/performance balance of the product/process duo. 
 
-**Europhartech**, pharmaceutical (_SEPT 2019 - SEPT 2023_)
-Methods and Industrialization Manager
+**Methods and Industrialization Manager @ <a href="https://www.domespharma.com/domes-pharma-manufacturing/" target="_blank">Europhartech</a>**,pharmaceutical (_SEPT 2019 - SEPT 2023_)
 - Management: Technician, operator, apprentice engineer
 - Management of format parts for production: definition of annual budget, supplier consultation, ordering, creation of management and monitoring tools.
 - New production equipment: Project management from the drafting of the CoC/tender to on-site acceptance (SAT). Equipment only or complete packaging line.
 - Continuous improvement: 5S IT and database management, implementation of automatic TRS software, 5S and kaizen workshops.
 - Industrial testing: planning, test follow-up (commissioning, change of packaging item, change of technology), reporting.
 
-**G. Pivaudran**, cosmetics (_SEPT 2016 - SEPT 2019_)
-Development Project Manager
+**Development Project Manager @ <a href="https://www.pivaudran.com/" target="_blank">G. Pivaudran*</a>**, cosmetics (_SEPT 2016 - SEPT 2019_)
 - Coordination of internal functions: design, methods, quality, logistics, production.
 - Follow-up on external actions and suppliers: consultation, orders.
 - Customer relationship management: Weekly reporting, presentations and visits.
