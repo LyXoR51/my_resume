@@ -1,5 +1,5 @@
 # Data Science & Engineering
- GitHub:[https://github.com/LyXoR51]
+My GitHub : https://github.com/LyXoR51
 
 ## Summary
 After 10 years in technical roles across cosmetics, pharma, and automotive industries, I discovered a strong passion for data. I'm now fully committed to transitioning into data science and engineering to drive innovation through data-driven solutions.
@@ -33,3 +33,10 @@ Job Title
 ## Education
 **Degree** | University Name | Date Graduated
 Courses, activities, or other details
+
+
+## 📞 Contact
+
+| **Name**   | Florent P. | 
+| **E-mail**   | <a href="mailto:florent.proust@wanadoo.fr">florent.proust@wanadoo.fr</a> | 
+| **LinkedIn**   | <a href="https://www.linkedin.com/in/florent-proust-49334a90/" target="_blank">Visit Page</a> | 
