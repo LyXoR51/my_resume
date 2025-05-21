@@ -1,1 +1,12 @@
+title: Florent Proust
 
+description: Data science and AI
+
+show_downloads: true # Fix spelling
+
+theme: jekyll-theme-minimal 
+
+plugins:
+  - jekyll-seo-tag # Add SEO plugin
+
+email: florent.proustt@gmail.com
