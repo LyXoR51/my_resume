@@ -1,8 +1,8 @@
-# Your Name
-Software Engineer | Portfolio: [yourportfolio.github.io](https://yourportfolio.github.io)
+# Florent Proust
+Data Science & Engineering | Portfolio: [yourportfolio.github.io]([https://yourportfolio.github.io](https://github.com/LyXoR51))
 
 ## Summary
-1-2 sentences summarizing your professional experience and expertise
+After nearly 10 years of experience in technical roles within the industrial sector (cosmetics, pharmaceuticals, automotive) — including project management, methods and industrialization, and process leadership — I made the decision to pivot my career toward data science and engineering, driven by a strong interest in data-driven innovation.
 
 ## Skills
 - Programming Languages: Python, JavaScript, etc 
