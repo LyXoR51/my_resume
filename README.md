@@ -1,8 +1,8 @@
 # Florent Proust
-Data Science & Engineering | Portfolio: [yourportfolio.github.io]([https://yourportfolio.github.io](https://github.com/LyXoR51))
+Data Science & Engineering | Portfolio: [yourportfolio.github.io]([https://github.com/LyXoR51])
 
 ## Summary
-After nearly 10 years of experience in technical roles within the industrial sector (cosmetics, pharmaceuticals, automotive) — including project management, methods and industrialization, and process leadership — I made the decision to pivot my career toward data science and engineering, driven by a strong interest in data-driven innovation.
+After 10 years in technical roles across cosmetics, pharma, and automotive industries, I discovered a strong passion for data. I'm now fully committed to transitioning into data science and engineering to drive innovation through data-driven solutions.
 
 ## Skills
 - Programming Languages: Python, JavaScript, etc 
