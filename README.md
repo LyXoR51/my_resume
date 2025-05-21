@@ -5,21 +5,34 @@
 After 10 years in technical roles across cosmetics, pharma, and automotive industries, I discovered a strong passion for data. I'm now fully committed to transitioning into data science and engineering to drive innovation through data-driven solutions.
 
 ## Skills
-- Programming Languages: Python, JavaScript, etc 
-- Web Frameworks: React, Django, etc
-- Databases: MySQL, MongoDB
-- Tools & Methods: Git, Agile, TDD, etc
+- Programming Languages: Python
 
 ## Experience
-**Company Name** (Dates)   
-Job Title
-- Accomplishment 1
-- Accomplishment 2  
+**Symbio**, automotive (_OCT 2023 - NOV 2024_)   
+Process Leader
+- Project management: Management of the reception phases of a production line (FAT, relocation, SAT, certification qualification, R&R, QI QO QP). Coordination of internal/external functions (robotics, automation, vision, mechanics). Backup of other leading processes on equivalent production line.
+- Fine-tuning: Definition of technical improvements to improve reliability and cycle times to meet production and CDC targets (software & hardware modifications: automation upgrades, new functions, robot trajectory and cycle, gripper modifications, etc.).
+- Process/product improvement: Review of process and product FMEAs (PFMEA), technical arbitration to ensure the quality/performance balance of the product/process duo. 
 
-**Company Name** (Dates)
-Job Title
-- Accomplishment 1
-- Accomplishment 2
+**Europhartech**, pharmaceutical (_SEPT 2019 - SEPT 2023_)
+Methods and Industrialization Manager
+- Management: Technician, operator, apprentice engineer
+- Management of format parts for production: definition of annual budget, supplier consultation, ordering, creation of management and monitoring tools.
+- New production equipment: Project management from the drafting of the CoC/tender to on-site acceptance (SAT). Equipment only or complete packaging line.
+- Continuous improvement: 5S IT and database management, implementation of automatic TRS software, 5S and kaizen workshops.
+- Industrial testing: planning, test follow-up (commissioning, change of packaging item, change of technology), reporting.
+
+**G. Pivaudran**, cosmetics (_SEPT 2016 - SEPT 2019_)
+Development Project Manager
+- Coordination of internal functions: design, methods, quality, logistics, production.
+- Follow-up on external actions and suppliers: consultation, orders.
+- Customer relationship management: Weekly reporting, presentations and visits.
+- On schedule and on budget: Use of MS PROJECT and Pack Office
+- Proposal of technical and economic solutions in line with the customer's CDC and technical arbitration
+- Prototypes and showpieces
+- Installation of BAT / BAG / defect kits
+- Design documents in Illustrator (for laser marking, mechanical engraving and screen printing)
+- Drafting and presentation of development reports
 
 ## Projects
 **Project 1** (link to project site or GitHub repo)  
@@ -30,12 +43,10 @@ Job Title
 - Description 
 - Accomplishment
 
-
 ## 🎓 Education
 
-**Master Datascience Engineering** | <a href="https://www.jedha.co/" target="_blank"> JEDHA </a> (_MAR 2025 - JUL 2025_) |	  		
-**Master Packaging Engineering**| <a href="https://www.esepac.com/" target="_blank"> ESEPAC </a> (_SEPT 2014 - SEPT 2016_) |	 			        		
-
+- **Master**, Datascience Engineering | <a href="https://www.jedha.co/" target="_blank"> JEDHA </a> (_MAR 2025 - JUL 2025_) |	  		
+- **Master**, Packaging Engineering | <a href="https://www.esepac.com/" target="_blank"> ESEPAC </a> (_SEPT 2014 - SEPT 2016_) |	 			        		 	
 
 ## 📞 Contact
  
