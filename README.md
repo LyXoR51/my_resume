@@ -2,7 +2,9 @@
 [My GitHub](https://github.com/LyXoR51)
 
 ## Summary
-After 10 years in technical roles across cosmetics, pharma, and automotive industries, I discovered a strong passion for data. I'm now fully committed to transitioning into data science and engineering to drive innovation through data-driven solutions.
+After 10 years in technical roles across the cosmetics, pharmaceutical, and automotive industries, I discovered a strong passion for data. I’ve since decided to focus my career on data science and engineering to build impactful, data-driven solutions.
+
+To support this career shift, I completed a data science bootcamp at JEDHA, where I worked on real-world projects and gained practical experience in data analysis, machine learning, and data engineering.
 
 ## Skills
 - Programming Languages: Python
@@ -44,7 +46,8 @@ After 10 years in technical roles across cosmetics, pharma, and automotive indus
 ## 🎓 Education
 
 - **Master**, Datascience Engineering | <a href="https://www.jedha.co/" target="_blank"> JEDHA </a> (_MAR 2025 - JUL 2025_) |	  		
-- **Master**, Packaging Engineering | <a href="https://www.esepac.com/" target="_blank"> ESEPAC </a> (_SEPT 2014 - SEPT 2016_) |	 			        		 	
+- **Master**, Packaging Engineering | <a href="https://www.esepac.com/" target="_blank"> ESEPAC </a> (_SEPT 2014 - SEPT 2016_) |      		 	
+
 
 ## 📞 Contact
  
