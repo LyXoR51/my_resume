@@ -30,13 +30,13 @@ Job Title
 - Description 
 - Accomplishment
 
-## Education
-**Degree** | University Name | Date Graduated
-Courses, activities, or other details
+
+## 🎓 Education
+- **Master Datascience Engineering**, JEDHA | <a href="https://www.jedha.co/" target="_blank">JEDHA</a> (_MAR 2025 - JUL 2025_)		  		
+- **Master Packaging Engineering**, ESEPAC	| <a href="https://www.esepac.com/" target="_blank">ESEPAC</a> (_SEPT 2014 - SEPT 2016_)	 			        		
 
 
 ## 📞 Contact
-
-| **Name**   | Florent P. | 
+| **Phone**   | <a href="0616655261">06 16 65 52 61</a> |
 | **E-mail**   | <a href="mailto:florent.proust@wanadoo.fr">florent.proust@wanadoo.fr</a> | 
 | **LinkedIn**   | <a href="https://www.linkedin.com/in/florent-proust-49334a90/" target="_blank">Visit Page</a> | 
