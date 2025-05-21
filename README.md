@@ -1,5 +1,4 @@
 # Data Science & Engineering
-My GitHub : https://github.com/LyXoR51
 
 ## Summary
 After 10 years in technical roles across cosmetics, pharma, and automotive industries, I discovered a strong passion for data. I'm now fully committed to transitioning into data science and engineering to drive innovation through data-driven solutions.
