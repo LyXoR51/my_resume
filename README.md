@@ -8,7 +8,7 @@ After 10 years in technical roles across cosmetics, pharma, and automotive indus
 - Programming Languages: Python
 
 ## Experience
-**Symbio**, automotive (_OCT 2023 - NOV 2024_)   
+**Symbio**, automotive (_OCT 2023 - NOV 2024_)
 Process Leader
 - Project management: Management of the reception phases of a production line (FAT, relocation, SAT, certification qualification, R&R, QI QO QP). Coordination of internal/external functions (robotics, automation, vision, mechanics). Backup of other leading processes on equivalent production line.
 - Fine-tuning: Definition of technical improvements to improve reliability and cycle times to meet production and CDC targets (software & hardware modifications: automation upgrades, new functions, robot trajectory and cycle, gripper modifications, etc.).
