@@ -21,7 +21,7 @@ After 10 years in technical roles across cosmetics, pharma, and automotive indus
 - Continuous improvement: 5S IT and database management, implementation of automatic TRS software, 5S and kaizen workshops.
 - Industrial testing: planning, test follow-up (commissioning, change of packaging item, change of technology), reporting.
 
-**Development Project Manager @ <a href="https://www.pivaudran.com/" target="_blank">G. Pivaudran*</a>**, cosmetics (_SEPT 2016 - SEPT 2019_)
+**Development Project Manager @ <a href="https://www.pivaudran.com/" target="_blank">G.Pivaudran</a>**, cosmetics (_SEPT 2016 - SEPT 2019_)
 - Coordination of internal functions: design, methods, quality, logistics, production.
 - Follow-up on external actions and suppliers: consultation, orders.
 - Customer relationship management: Weekly reporting, presentations and visits.
