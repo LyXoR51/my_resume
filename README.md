@@ -35,7 +35,7 @@ To support this career shift, I completed a data science bootcamp at JEDHA, wher
 - Drafting and presentation of development reports
 
 **Packaging Design Quality Project Manager @ <a href="https://www.guerlain.com" target="_blank">Guerlain</a>**, cosmetics (_SEPT 2014 - SEPT 2016_)
-- Apprentice.
+- Apprenticeship
 - Technical analysis and arbitration
 - Optimization of tertiary packaging
 - Test development: methods and tools
