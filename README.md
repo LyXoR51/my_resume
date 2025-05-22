@@ -33,7 +33,7 @@ To support this career shift, I completed a data science bootcamp at JEDHA, wher
 - Installation of BAT / BAG / defect kits
 - Design documents in Illustrator (for laser marking, mechanical engraving and screen printing)
 - Drafting and presentation of development reports
-- 
+
 **Packaging Design Quality Project Manager @ <a href="https://www.guerlain.com" target="_blank">Guerlain</a>**, cosmetics (_SEPT 2014 - SEPT 2016_)
 - Apprentice.
 - Technical analysis and arbitration
