@@ -11,7 +11,7 @@ To support this career shift, I completed a data science bootcamp at JEDHA, wher
 
 ## 💼 Work experience 
 
-**Process Leader @ <a href="https://www.symbio.one/en" target="_blank">Symbio</a>** |
+**Process Leader @ <a href="https://www.symbio.one/en" target="_blank">Symbio</a>** | 
 automotive (_OCT 2023 - NOV 2024_)
 - Project management: Management of the reception phases of a production line (FAT, relocation, SAT, certification qualification, R&R, QI QO QP). Coordination of internal/external functions (robotics, automation, vision, mechanics). Backup of other leading processes on equivalent production line.
 - Fine-tuning: Definition of technical improvements to improve reliability and cycle times to meet production and CDC targets (software & hardware modifications: automation upgrades, new functions, robot trajectory and cycle, gripper modifications, etc.).
@@ -25,7 +25,7 @@ pharmaceutical (_SEPT 2019 - SEPT 2023_)
 - Continuous improvement: 5S IT and database management, implementation of automatic TRS software, 5S and kaizen workshops.
 - Industrial testing: planning, test follow-up (commissioning, change of packaging item, change of technology), reporting.
 
-**Development Project Manager @ <a href="https://www.pivaudran.com/" target="_blank">G.Pivaudran</a>**, cosmetics (_SEPT 2016 - SEPT 2019_)
+**Development Project Manager @ <a href="https://www.pivaudran.com/" target="_blank">G.Pivaudran</a>** | cosmetics (_SEPT 2016 - SEPT 2019_)
 - Coordination of internal functions: design, methods, quality, logistics, production.
 - Follow-up on external actions and suppliers: consultation, orders.
 - Customer relationship management: Weekly reporting, presentations and visits.
@@ -36,7 +36,7 @@ pharmaceutical (_SEPT 2019 - SEPT 2023_)
 - Design documents in Illustrator (for laser marking, mechanical engraving and screen printing)
 - Drafting and presentation of development reports
 
-**Packaging Design Quality Project Manager @ <a href="https://www.guerlain.com" target="_blank">Guerlain</a>**, cosmetics (_SEPT 2014 - SEPT 2016_)
+**Packaging Design Quality Project Manager @ <a href="https://www.guerlain.com" target="_blank">Guerlain</a>** | cosmetics (_SEPT 2014 - SEPT 2016_)
 - Apprenticeship
 - Technical analysis and arbitration
 - Optimization of tertiary packaging
