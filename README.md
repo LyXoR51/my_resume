@@ -47,12 +47,12 @@ pharmaceutical (_SEPT 2019 - SEPT 2023_)
 
   
 ## Projects
-**Est’Immo – Real Estate Price Estimation Platform** (<a href="https://lyx51-est-immo.hf.space/" target="_blank"> Est'Immo </a>
+### <a href="https://lyx51-est-immo.hf.space/" target="_blank"> Est’Immo – Real Estate Price Estimation Platform </a>
 
-Overview:
+#### Overview
 Developed an interactive platform for real estate price estimation, designed for real estate agencies to predict and track property sale values based on real market data.
 
-Key Features & Tech Stack:
+#### Key Features & Tech Stack
 - FastAPI – Model serving via REST API
 - Streamlit – Interactive web interface
 - MLflow – Model training & experiment tracking (deployed on AWS EC2)
@@ -62,7 +62,7 @@ Key Features & Tech Stack:
 - Docker & Ngrok – Containerized deployment and secure exposure
 - SQL Database – Data management and storage
 
-Outcome:
+#### Outcome
 Deployed a fully functional AI-driven application demonstrating an end-to-end MLOps architecture for predictive modeling in the real estate sector.
 
 **Project 2** (link)
