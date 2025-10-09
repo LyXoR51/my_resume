@@ -7,7 +7,12 @@ After 10 years in technical roles across the cosmetics, pharmaceutical, and auto
 To support this career shift, I completed a data science bootcamp at JEDHA, where I worked on real-world projects and gained practical experience in data analysis, machine learning, and data engineering.
 
 ## Skills
-- Programming Languages: Python
+- **Languages & Programming:** Python (Pandas, NumPy), SQL, Bash — data manipulation and workflow automation.
+- **Data Engineering:** design and orchestration of ETL pipelines with Airflow, Airbyte, and dbt — data ingestion, transformation, and modeling.
+- **Tools & DevOps:** Docker, Git/GitHub, Jenkins, FastAPI — CI/CD, containerization, and deployment of data services.
+- **MLOps & Machine Learning:** Scikit-learn, PyTorch, MLflow — model training, monitoring, and productionization.
+- **Project Management & Collaboration:** technical coordination, clear communication, and cross-functional teamwork.
+- **Soft Skills & Languages:** analytical mindset, rigor, problem-solving approach, and professional technical English.
 
 ## 💼 Work experience 
 
