@@ -68,9 +68,25 @@ Developed an interactive platform for real estate price estimation, designed for
 **Outcome :**
 Deployed a fully functional AI-driven application demonstrating an end-to-end MLOps architecture for predictive modeling in the real estate sector.
 
-**Project 2** (link)
-- Description 
-- Accomplishment
+### Anime Recommendation Engine
+
+**Links:** 
+<a href="https://lyx51-anime-recommandation-streamlit.hf.space/" target="_blank"> Hugging Face </a>
+
+**Overview :**
+Developed an intelligent recommendation platform for anime fans, inspired by streaming platforms like Netflix.
+The system leverages Large Language Models (LLMs), sentiment analysis, and semantic embeddings to generate personalized recommendations based on user preferences and content descriptions.
+
+**Key Features & Tech Stack :**
+- Transformers & Embeddings – Semantic representation of anime metadata and user reviews
+- Sentiment Analysis – Extraction of emotional tone from user feedback to refine recommendations
+- LLM-based Recommendation Engine – Context-aware suggestion generation
+- Streamlit – Interactive front-end for exploring personalized anime lists
+- Docker – Containerized environment for reproducibility
+
+**Outcome :**
+Delivered a functional AI-powered recommendation platform showcasing the integration of LLMs, embeddings to build a personalized user experience in the entertainment domain.
+
 
 ## 🎓 Education
 
