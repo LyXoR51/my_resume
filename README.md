@@ -102,5 +102,6 @@ Delivered a functional AI-powered recommendation platform showcasing the integra
 ## 📞 Contact
  
 | **Phone**   | <a> 06 16 65 52 61 </a> |
-| **E-mail**   | <a href="mailto:florent.proust@wanadoo.fr">florent.proust@wanadoo.fr</a> | 
+| **E-mail**   | <a href="mailto:florent.proustt@gmail.com">florent.proustt@gmail.com</a> | 
 | **LinkedIn**   | <a href="https://www.linkedin.com/in/florent-proust-49334a90/" target="_blank">Visit Page</a> |
+| **HuggingFace**   | <a href="https://huggingface.co/lyx51/spaces/" target="_blank">Visit Page</a> |
