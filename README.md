@@ -3,6 +3,7 @@
 
 [My HuggingFace](https://huggingface.co/lyx51/spaces)
 
+
 ## Summary
 After 10 years in technical roles across the cosmetics, pharmaceutical, and automotive industries, I discovered a strong passion for data. I’ve since decided to focus my career on data science and engineering to build impactful, data-driven solutions.
 
